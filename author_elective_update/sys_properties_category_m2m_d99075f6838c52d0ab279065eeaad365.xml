@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Machine Learning Artifacts">d0d3fc9d3b323200956c47b334efc433</category>
+        <order>9500</order>
+        <property display_value="x_58872_needit.daysnotice" name="x_58872_needit.daysnotice">3329edfa83c852d0ab279065eeaad324</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 21:54:01</sys_created_on>
+        <sys_id>d99075f6838c52d0ab279065eeaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.daysnotice.Machine Learning Artifacts</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_d99075f6838c52d0ab279065eeaad365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 21:54:01</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4e0be340db02fd14ae4c9027c59619e4</instance_id>
+        <instance_name>dev189298</instance_name>
+        <name>sys_properties_category_m2m_d99075f6838c52d0ab279065eeaad365</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Machine Learning Artifacts">d0d3fc9d3b323200956c47b334efc433</category><order>9500</order><property display_value="x_58872_needit.daysnotice" name="x_58872_needit.daysnotice">3329edfa83c852d0ab279065eeaad324</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-19 21:54:01</sys_created_on><sys_id>d99075f6838c52d0ab279065eeaad365</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.daysnotice.Machine Learning Artifacts</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_m2m_d99075f6838c52d0ab279065eeaad365</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-19 21:54:01</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-1093918189</payload_hash>
+        <record_name>x_58872_needit.daysnotice.Machine Learning Artifacts</record_name>
+        <reverted_from/>
+        <source>0b9ecc11834c1e10ab279065eeaad356</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 21:54:01</sys_created_on>
+        <sys_id>959075f6838c52d0ab279065eeaad3a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1916ca1fd430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 21:54:01</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>d59075f6f88c52d05106893d57136d67</update_guid>
+        <update_guid_history>d59075f6f88c52d05106893d57136d67:-1093918189</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-19 21:57:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>0a5c90303f4f4d6b94dd59a4d488f701</sys_id>
+        <sys_metadata>d99075f6838c52d0ab279065eeaad365</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.daysnotice.Machine Learning Artifacts</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_d99075f6838c52d0ab279065eeaad365</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_d99075f6838c52d0ab279065eeaad365">959075f6838c52d0ab279065eeaad3a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-19 21:57:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
